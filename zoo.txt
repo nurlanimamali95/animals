@@ -1,3 +1,5 @@
 Dragon
 Griffin
 Phoenix
+Hippogriff
+Werewolf
